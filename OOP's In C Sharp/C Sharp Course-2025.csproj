@@ -73,6 +73,9 @@
     <Compile Include="02Project-Category &amp; Product Manegement\Models\Product.cs" />
     <Compile Include="02Project-Category &amp; Product Manegement\Services\Defination\IServices.cs" />
     <Compile Include="02Project-Category &amp; Product Manegement\Services\Implimentation\Services.cs" />
+    <Compile Include="03Top_Most_Interview_Question\01 Reverce String.cs" />
+    <Compile Include="03Top_Most_Interview_Question\All Top Program.cs" />
+    <Compile Include="03Top_Most_Interview_Question\02Findword_Count_in_String.cs" />
     <Compile Include="Abstraction\AbstractClass.cs" />
     <Compile Include="Abstraction\Abstraction_Basic.cs" />
     <Compile Include="Abstraction\AbstractMethods.cs" />

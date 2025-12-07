@@ -1,4 +1,5 @@
 ﻿using OOP_s_In_C_Sharp.Polymorephism;
+using OOPsInCSharp._03Top_Most_Interview_Question;
 using OOPsInCSharp.Abstraction;
 using OOPsInCSharp.Collections;
 using OOPsInCSharp.File_Handling;
@@ -15,15 +16,8 @@ namespace OOP_s_In_C_Sharp
        
         public static void Main(String[] args) 
         {
-            string Str = "Vaibhav";
-            StringBuilder Rev_Str = new StringBuilder();
-
-            for(int i = Str.Length-1 ; i >= 0; i--)
-            {
-                Rev_Str.Append(Str[i]);
-            }
-
-            Console.WriteLine(Rev_Str);
+            //_01_Reverce_String.ReverceString("Vaibhav Rokade");
+            Findword_Count_in_String.PrintWordCountInString("I am Vaibhav Rokade");
         }
 
     }

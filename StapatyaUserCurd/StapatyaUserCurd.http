@@ -1,0 +1,6 @@
+@StapatyaUserCurd_HostAddress = http://localhost:5054
+
+GET {{StapatyaUserCurd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
